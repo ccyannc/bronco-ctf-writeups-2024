@@ -1,1 +1,1 @@
-https://github.com/ccyannchan/bronco-ctf-writeups-2024/blob/main/all_i_do_is/all_i_do_is.PNG
+![All I Do Is: Problem Description](https://github.com/ccyannchan/bronco-ctf-writeups-2024/blob/main/all_i_do_is/all_i_do_is.PNG "ACM All I Do Is: Problem Description")

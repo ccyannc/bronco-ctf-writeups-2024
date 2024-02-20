@@ -1,2 +1,1 @@
-![Blue Boy Storage: Problem Description](https://raw.githubusercontent.com/ccyannchan/bronco-ctf-writeups-2024/main/blue_boy_storage/blue_boy_storage_prompt.PNG "Blue Boy Storage: Problem Description")
-https://github.com/ccyannchan/bronco-ctf-writeups-2024/blob/main/stego_snore_us/stego_snore_us.PNG
+![Stego-Snore-Us: Problem Description](https://github.com/ccyannchan/bronco-ctf-writeups-2024/blob/main/stego_snore_us/stego_snore_us.PNG "Stego-Snore-Us: Problem Description")
