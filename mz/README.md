@@ -1,2 +1,1 @@
 ![MZ: Problem Description](https://github.com/ccyannchan/bronco-ctf-writeups-2024/blob/main/mz/mz.PNG "MZ: Problem Description")
-https://github.com/ccyannchan/bronco-ctf-writeups-2024/blob/main/mz/mz.PNG
