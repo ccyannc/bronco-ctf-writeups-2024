@@ -2,6 +2,6 @@
 
 Team: Yann Chan, Austin Min, Riyan Bouzid
 
-<h5>Table of Contents</h5>	
-- [Blue Boy Storage](https://github.com/ccyannchan/bronco-ctf-writeups-2024/tree/main/blue_boy_storage)
+<h4>Table of Contents</h4>	
+- Blue Boy Storage<https://github.com/ccyannchan/bronco-ctf-writeups-2024/tree/main/blue_boy_storage>
 
